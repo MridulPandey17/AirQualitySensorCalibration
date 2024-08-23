@@ -1,0 +1,3 @@
+gpr_model_1 : trained gpr model on bhagalpur data with closest 8 sensors : unsupervised only, shuffle = True
+gpr_model_2 : trained gpr model on bhagalpur data with closest 8 sensors : unsupervised only, shuffle = False, train data is last 5 days only
+gpr_model_3 : trained gpr model on bhagalpur data with closest 8 sensors : unsupervised only, shuffle = False, train data is last 2 days only
